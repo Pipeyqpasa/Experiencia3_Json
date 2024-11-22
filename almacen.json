@@ -126,7 +126,7 @@
       "email": "juangonzalez@docenteduoc.cl",
       "password": "duoc1234",
       "rut": "23567678-2",
-      "isactive": false,
+      "isactive": true,
       "asignatura": "Etica Profesional",
       "imagen": ""
     },
