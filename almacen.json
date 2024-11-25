@@ -53,8 +53,10 @@
       "imagen": "assets/etica.png"
     }
   ],
-  "justificaciones": [],
-  "qr": [],
+  "justificaciones": [
+  ],
+  "qr": [
+  ],
   "docentes": [
     {
       "id": "c845",
