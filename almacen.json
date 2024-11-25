@@ -17,22 +17,6 @@
       "rut": "20843835-2",
       "isactive": true,
       "imagen": ""
-    },
-    {
-      "id": "c738",
-      "username": "ale.morales",
-      "email": "ale.morales@duocuc.cl",
-      "password": "duoc1234",
-      "rut": "21456987-2",
-      "isactive": true
-    },
-    {
-      "id": "791e",
-      "username": "bru.angel",
-      "email": "bru.angel@duocuc.cl",
-      "password": "duoc1234",
-      "rut": "34567765-2",
-      "isactive": true
     }
   ],
   "asignaturas": [
@@ -69,56 +53,8 @@
       "imagen": "assets/etica.png"
     }
   ],
-  "justificaciones": [
-    {
-      "id": "d6e1",
-      "asignatura": "Mentalidad Emp.",
-      "fecha": "2024-11-02",
-      "descripcion": "Me dolia mi estomago",
-      "profesor": "Juan Gonzalez",
-      "imagen": null,
-      "userId": 2,
-      "username": "feli.sandovals",
-      "comentario": "Gracias por compartir tu situación felipe queda justificado. Saludos"
-    },
-    {
-      "id": "f957",
-      "asignatura": "Etica Profesional",
-      "fecha": "2024-11-14",
-      "descripcion": "Me fracture la muñeca jugando a la pelota",
-      "profesor": "Juan Alberto",
-      "imagen": null,
-      "userId": 2,
-      "username": "feli.sandovals",
-      "comentario": "Okey felipe no hay problema lo dejare justificado"
-    }
-  ],
-  "qr": [
-    {
-      "id": "0a7d",
-      "nombre": "Inteligencia de Negocios",
-      "fecha": "24/10/2024",
-      "profesor": "Juan Alberto",
-      "rut": "20843835",
-      "email": "feli.sandovals@duocuc.cl"
-    },
-    {
-      "id": "8a39",
-      "nombre": "Mentalidad Emp.",
-      "fecha": "21/10/2024",
-      "profesor": "Juan Gonzalez",
-      "rut": "20843835",
-      "email": "feli.sandovals@duocuc.cl"
-    },
-    {
-      "id": "eeb2",
-      "nombre": "Gestión de Proyectos",
-      "fecha": "21/10/2024",
-      "profesor": "Juan Perez",
-      "rut": "20843835",
-      "email": "feli.sandovals@duocuc.cl"
-    }
-  ],
+  "justificaciones": [],
+  "qr": [],
   "docentes": [
     {
       "id": "c845",
